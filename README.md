@@ -1,6 +1,6 @@
 NCAA Basketball Stats Scraper
 =============================
-Author: Rodrigo Zamith  
+Author: Rodrigo Zamith
 Version: 1.0
 
 
@@ -18,7 +18,11 @@ Then, execute either `ncaab_stats_scraper.sh` or `ncaab_stats_scraper.bat`, depe
 
 Requirements
 ------------
-This script requires Python, as well as the urllib2 and BeautifulSoup libraries.
+This script requires Python, as well as the urllib2 and BeautifulSoup4 libraries.
+
+To install the project's requiremets:
+
+$ pip install -r requirements.txt
 
 
 License
